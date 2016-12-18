@@ -3,4 +3,4 @@
 
 @import "";
 
-a { color: yellowGreen; }
+a { color: yellowGreen !important; }
