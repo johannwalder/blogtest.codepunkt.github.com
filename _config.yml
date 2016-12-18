@@ -1,6 +1,6 @@
 title: Test One
 description: Sharing and learning about software development and work processes
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minima
 twitter_username: johannwalder
 disqus:
     shortname: codepunkt
